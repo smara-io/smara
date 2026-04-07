@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: General feedback
+    url: https://smara.io/#signup
+    about: Share feedback directly on our site
+  - name: Email
+    url: mailto:sri@smara.io
+    about: Reach out directly
