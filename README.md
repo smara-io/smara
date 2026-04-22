@@ -2,14 +2,6 @@
 
 ![Smara — One memory for all your AI tools](assets/banner.png)
 
-# smara
-
-### One memory for all your AI tools
-
-Your AI tools forget everything between sessions. Smara fixes that.
-
-Give Claude Code, Cursor, Windsurf, and Codex shared context that persists, decays naturally, and follows you across tools.
-
 [![Website](https://img.shields.io/badge/smara.io-Visit%20Website-6366f1?style=for-the-badge)](https://smara.io)
 [![npm](https://img.shields.io/npm/v/@smara/mcp-server?style=for-the-badge&color=22c55e)](https://www.npmjs.com/package/@smara/mcp-server)
 [![API Docs](https://img.shields.io/badge/API-Docs-1d1d1f?style=for-the-badge)](https://api.smara.io/docs)
