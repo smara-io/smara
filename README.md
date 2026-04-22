@@ -1,5 +1,7 @@
 <div align="center">
 
+![Smara — One memory for all your AI tools](assets/banner.png)
+
 # smara
 
 ### One memory for all your AI tools
@@ -84,6 +86,8 @@ Works with **Claude Code** (`~/.claude/mcp_config.json`), **Cursor** (`.cursor/m
 
 ## How It Works
 
+![How Smara works across tools](assets/flow.png)
+
 ### Ebbinghaus Decay
 
 Memory relevance is scored using Ebbinghaus forgetting curves:
@@ -149,6 +153,8 @@ Returns pre-formatted context ready to inject into LLM system prompts.
 ## Try It Live
 
 **[smara.io/playground](https://smara.io/playground)** — interactive demo where you can store, recall, and see contradiction detection in action. No signup required.
+
+![Smara API Playground](assets/playground.png)
 
 ---
 
